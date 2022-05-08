@@ -1,0 +1,2 @@
+body{margin:0;padding:0}.goods{display:flex;flex-direction:column;justify-content:center;align-items:center}.goods__title{font-size:30px}.goods__list{width:200px;list-style:none}.goods__list:not(:last-child){margin-bottom:4px}.goods__list__item{display:flex;margin-bottom:3px;justify-content:space-between;border:1px solid #000;border-radius:4px}.goods .isSelected{background-color:#6de86d}.goods__button{border-radius:6px;transition-duration:.4s}.goods__button:hover{background-color:#4caf50;color:#fff}
+/*# sourceMappingURL=main.7d54954c.chunk.css.map */
